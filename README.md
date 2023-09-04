@@ -1,4 +1,4 @@
-# Webminicurso - ai4physics
+# Minicurso - ai4physics
 
 ## Aulas práticas
 
